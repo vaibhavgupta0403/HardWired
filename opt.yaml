@@ -1,6 +1,6 @@
 weights: yolov5s.pt
 cfg: ''
-data: C:\Users\asus\Desktop\yolov5_ws\yolov5\data\dataset.yaml
+data: dataset.yaml
 hyp:
   lr0: 0.01
   lrf: 0.01
